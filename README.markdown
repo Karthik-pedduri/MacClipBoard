@@ -16,7 +16,7 @@ MacClipBoard is a lightweight clipboard history utility designed to bring the co
     ![Clipboard History Panel](https://raw.githubusercontent.com/Karthik-pedduri/MacClipBoard/main/screenshots/light%20mode.png)  
     _A screenshot showing the quick access panel with recent clipboard items in light mode._  
 
-* **Settings Window (Dark Mode)**:  
+* **Clipboard History Panel (Dark Mode)**:  
     ![Settings Window](https://raw.githubusercontent.com/Karthik-pedduri/MacClipBoard/main/screenshots/dark%20mode.png)  
     _A screenshot demonstrating the settings window where users can configure preferences in dark mode._
 
