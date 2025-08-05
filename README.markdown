@@ -18,27 +18,24 @@ MacClipBoard is a lightweight clipboard history utility designed to bring the co
 
 * **Clipboard History Panel (Dark Mode)**:  
     ![Settings Window](https://raw.githubusercontent.com/Karthik-pedduri/MacClipBoard/main/screenshots/dark%20mode.png)  
-    
 
 🚀 **Installation**  
 The pre-built application is fully functional and ready for immediate use. You can download it directly and start boosting your productivity!
 
 **Download Pre-built Application**  
-You can download the latest pre-built `.app` file from the [Releases page](https://github.com/Karthik-pedduri/MacClipBoard/releases).
+1. Visit the [Releases page](https://github.com/Karthik-pedduri/MacClipBoard/releases).  
+2. Download the latest `MacClipBoard.app.zip` file.  
+3. Unzip the file to extract `MacClipBoard.app`.  
+4. Move `MacClipBoard.app` to your Applications folder and double-click to launch.
 
 **Building from Source**  
 To build and run MacClipBoard from its source code, you'll need Xcode installed on your macOS machine.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Karthik-pedduri/MacClipBoard.git
-   cd MacClipBoard
-   ```
-2. Open in Xcode:  
-   Open the `MacClipBoard.xcodeproj` file in Xcode.
-
-3. Build and Run:  
-   Select your target (e.g., "MacClipBoard") and click the "Run" button (▶️) in Xcode. The application will compile and launch.
+1. Visit the [Releases page](https://github.com/Karthik-pedduri/MacClipBoard/releases).  
+2. Download the latest source code zip file (e.g., `MacClipBoard-source.zip`).  
+3. Unzip the file to extract the source code folder.  
+4. Open the `MacClipBoard.xcodeproj` file in Xcode.  
+5. Select your target (e.g., "MacClipBoard") and click the "Run" button (▶️) in Xcode. The application will compile and launch.
 
 💡 **Usage**  
 - **Launch the Application**: After launching, MacClipBoard will appear as a clipboard icon in your macOS menu bar.  
